@@ -24,15 +24,15 @@
     "url": "mailto:1239181340@qq.com"
   },
   {
-    "name": "X",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/choycheng24"
+    "name": "Instagram",
+    "icon": "/images/icon/ins.png",
+    "tip": "ins ~",
+    "url": https://www.instagram.com/mr.choycheng"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "一般别加 ~",
+    "tip": "你懂的 ~",
     "url": "https://t.me/ChoyCheng"
   }
 ]
