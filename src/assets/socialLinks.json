@@ -24,7 +24,7 @@
     "url": "mailto:1239181340@qq.com"
   },
   {
-    "name": "Twitter",
+    "name": "X",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
     "url": "https://twitter.com/choycheng24"
@@ -32,7 +32,7 @@
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
+    "tip": "一般别加 ~",
     "url": "https://t.me/ChoyCheng"
   }
 ]
